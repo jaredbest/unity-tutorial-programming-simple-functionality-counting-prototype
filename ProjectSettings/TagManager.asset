@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gin
+  - Tonic
+  - Whiskey
+  - Lemon Juice
+  - Sugar Syrup
   layers:
   - Default
   - TransparentFX
